@@ -34,7 +34,7 @@ export function Footer({ onNavigate }: FooterProps) {
               <img src={Logo} alt="The Development Studio" className="w-10 h-10 object-contain" />
               <div>
                 <div className="font-bold">The Development Studio</div>
-                <div className="text-xs text-muted-foreground">ISO Certified</div>
+                <div className="text-xs text-muted-foreground">a Digital Solution Company</div>
               </div>
             </div>
             <p className="text-sm text-muted-foreground mb-4">
