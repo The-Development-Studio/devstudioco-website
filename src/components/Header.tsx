@@ -73,7 +73,7 @@ export function Header({ currentPage, onNavigate }: HeaderProps) {
             <img src={Logo} alt="The Development Studio" className="w-10 h-10 object-contain" />
             <div className="ml-2">
               <div className={`font-bold ${getTextColor()}`}>The Development Studio</div>
-              <div className={`text-xs ${getTextColor()} text-opacity-70`}>Crafting Dreams Into Design</div>
+              <div className={`text-xs ${getTextColor()} text-opacity-70`}>a Digital Solution Company</div>
             </div>
           </motion.div>
 
