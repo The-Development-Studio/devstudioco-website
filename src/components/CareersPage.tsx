@@ -162,7 +162,7 @@ export default function CareersPage() {
               { icon: Briefcase, label: 'Open Positions', value: jobs.filter(j => j.active).length },
               { icon: Users, label: 'Team Members', value: '10+' },
               { icon: MapPin, label: 'Locations', value: '2+' },
-              { icon: Calendar, label: 'Founded', value: '2023' },
+              { icon: Calendar, label: 'Founded', value: '2020' },
             ].map((stat, index) => (
               <motion.div
                 key={index}
